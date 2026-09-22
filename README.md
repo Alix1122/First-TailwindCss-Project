@@ -7,6 +7,12 @@ A modern, responsive landing page built with HTML and CSS only — no JavaScript
 
 ---
 
+## 🌐 Live Demo
+
+👉 **[View the live site](https://alix1122.github.io/First-TailwindCss-Project/src)**
+
+---
+
 ## ✨ Features
 
 - 🎨 Modern design with a **hero section**, a **testimonials section** and a **footer**
