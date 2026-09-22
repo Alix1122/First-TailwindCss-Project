@@ -3,7 +3,8 @@
 My first project built with **Tailwind CSS v4** and the **Tailwind CLI**.  
 A modern, responsive landing page built with HTML and CSS only — no JavaScript framework.
 
-![Site preview]()
+![Site preview](![Uploading Capture001.png…]()
+)
 
 ---
 
